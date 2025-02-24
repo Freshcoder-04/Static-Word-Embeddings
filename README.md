@@ -124,3 +124,7 @@ This script will load `svd.pt`, `cbow.pt`, and `skipgram.pt` from the `./embeddi
 - **Brown Corpus:** Downloaded automatically via NLTK.
 - **WordSim-353:** Download the dataset from [kaggle](https://www.kaggle.com/datasets/julianschelb/wordsim353-crowd) and place the CSV file in the repository directory as `wordsim353.csv`.
 ---
+
+<p align="center" style="font-size: 40px;"><b>Thank You</b></p>
+
+---
