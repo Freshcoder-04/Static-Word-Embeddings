@@ -19,7 +19,6 @@ def load_embeddings(embedding_path):
         return vocab, embeddings
 
 def compute_cosine_similarity(vec1, vec2):
-    """Compute cosine similarity between two vectors."""
     norm1 = np.linalg.norm(vec1)
     norm2 = np.linalg.norm(vec2)
     if norm1 == 0 or norm2 == 0:
